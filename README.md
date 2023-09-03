@@ -1,7 +1,5 @@
- Recent
+Ian Martin Ajzenszmidt
 C++ Thin Plate Splines program
-nasm 64 bit assembler code and compile instructions in english, to print numbers from 1 to 10
-machine level code to display numers from 1 tj 10
 Windsor VIC, Australia
 Based on your places (home) • Update location
 profile picture
